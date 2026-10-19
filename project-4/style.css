@@ -1,0 +1,10 @@
+.hero-img img{
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    height: 350px;
+}
+
+.card-1:hover{
+    box-shadow: 10px 10px 10px #0b1139;
+    translate: 0 -2px;
+}
